@@ -5,12 +5,12 @@
   "permalink": "/documentacion-DSI/docs/category/productos-1",
   "navigation": {
     "previous": {
-      "title": "Productos",
-      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios"
+      "title": "Manual del sistema MaxPoint (POS) ver 2",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del POS/"
     },
     "next": {
-      "title": "Restaurante",
-      "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/Descargar Productos y Precios"
+      "title": "Crear Productos",
+      "permalink": "/documentacion-DSI/docs/category/crear-productos"
     }
   }
 }
